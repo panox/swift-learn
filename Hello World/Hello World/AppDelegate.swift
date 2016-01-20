@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Hello World
 //
-//  Created by Panos on 20/01/2016.
-//  Copyright © 2016 panox. All rights reserved.
+//  Created by Rob Percival on 15/06/2015.
+//  Copyright © 2015 Appfish. All rights reserved.
 //
 
 import UIKit
